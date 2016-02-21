@@ -1,1 +1,1 @@
-# config
+# contacts-config
